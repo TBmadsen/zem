@@ -1,0 +1,47 @@
+
+/*
+  Universal styles
+*/
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body,html{
+  font-size: 62.5%;
+}
+
+h1{
+  font-family:avenirHeavy;
+  font-size: 4rem;
+}
+h3,h2{
+  font-family: avenirMedium;
+}
+p{
+  font-family: avenirLight;
+  font-size: 2rem;
+}
+/*
+  Header styles
+*/
+
+/*
+  Main content styles
+*/
+
+
+@font-face {
+    font-family: avenirHeavy;
+    src: url(../fonts/AEH.ttf);
+}
+@font-face {
+  font-family: avenirMedium;
+  src: url(../fonts/avenirroman.otf);
+}
+
+@font-face {
+  font-family: avenirLight;
+  src: url(../fonts/avenirlight.otf);
+}
